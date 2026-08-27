@@ -24,9 +24,10 @@
    ```
 
 2. **安装依赖：**
-   ```bash
+```bash
 pip install flask requests
-    ```
+
+```
 
 
 3. **运行程序：**
