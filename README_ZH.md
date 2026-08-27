@@ -4,6 +4,8 @@
 
 `OpenStreetEarth` 是一个轻量级、高精度的地图浏览器，旨在将 Google 卫星影像与标准的全球 WGS-84 坐标及 OpenStreetMap (OSM) POI 数据无缝结合，完美解决中国大陆地区的 GCJ-02（火星坐标系）偏移困扰。
 
+![示意图](https://raw.githubusercontent.com/walkmanNB/OpenStreetEarth/refs/heads/main/Screenshot%202026-08-27%20214301.png)
+
 ---
 
 ## ✨ 功能特性
