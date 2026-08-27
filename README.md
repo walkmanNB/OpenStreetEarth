@@ -55,6 +55,3 @@ Open your browser and navigate to: `http://127.0.0.1:1989`
 
 This project is open-source under the [MIT License](https://www.google.com/search?q=LICENSE).
 
-```
-
-```
