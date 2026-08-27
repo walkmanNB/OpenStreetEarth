@@ -1,4 +1,3 @@
-```markdown
 # 🌍 OpenStreetEarth
 
 *[English README](README.md) | [简体中文说明](README_ZH.md)*
