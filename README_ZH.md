@@ -19,13 +19,12 @@
 
 1. **克隆仓库：**
    ```bash
-   git clone [https://github.com/yourname/openstreetearth.git](https://github.com/yourname/openstreetearth.git)
+   git clone https://github.com/yourname/openstreetearth.git
    cd openstreetearth
-
-```
+   ```
 
 2. **安装依赖：**
-
+   ```bash
 pip install flask requests
 
 ```
