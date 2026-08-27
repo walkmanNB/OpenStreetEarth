@@ -26,8 +26,7 @@
 2. **安装依赖：**
    ```bash
 pip install flask requests
-
-```
+    ```
 
 
 3. **运行程序：**
