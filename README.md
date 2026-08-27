@@ -33,7 +33,7 @@ pip install flask requests
 
 3. **Run the application:**
 ```bash
-python app.py
+python run.py
 
 ```
 
