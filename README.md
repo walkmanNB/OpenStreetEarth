@@ -20,10 +20,9 @@ A project based on openstreetmap and google satelite image
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourname/openstreetearth.git](https://github.com/yourname/openstreetearth.git)
+   git clone https://github.com/yourname/openstreetearth.git
    cd openstreetearth
-
-```
+   ```
 
 2. **Install dependencies:**
 ```bash
