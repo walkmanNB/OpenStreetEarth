@@ -5,9 +5,8 @@ A project based on openstreetmap and google satelite image
 
 `OpenStreetEarth` is a lightweight, high-precision map browser designed to bridge Google Satellite imagery with native WGS-84 coordinates and OpenStreetMap (OSM) POI data, completely bypassing GCJ-02 offsets in mainland China.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/walkmanNB/OpenStreetEarth/refs/heads/main/Screenshot%202026-08-27%20214301.png" width="200" alt="Logo">
-</p>
+![示意图]([https://example.com/your-image.png](https://raw.githubusercontent.com/walkmanNB/OpenStreetEarth/refs/heads/main/Screenshot%202026-08-27%20214301.png))
+
 ---
 
 ## ✨ Features
